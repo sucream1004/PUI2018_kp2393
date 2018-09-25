@@ -1,5 +1,5 @@
 # Part1. Remove Sensitive Data from github
-## All done by kp2393
+## All done by Keundeok Park(kp2393)
 1. Create test.csv
 ```
   a, b, c
