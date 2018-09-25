@@ -1,4 +1,5 @@
 # Part1. Remove Sensitive Data from github
+## All done by kp2393
 1. Create test.csv
 ```
   a, b, c
@@ -15,5 +16,5 @@ type bash command to remove history
 $git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch HW3_kp2393/test.csv HW3_kp2393/test2.csv' --prune-empty --tag-name-filter cat -- --all
 $git push origin --force --all
 ```
-The next figure is result.
+- The next figure is result.
 ![result](./img/results.png)
