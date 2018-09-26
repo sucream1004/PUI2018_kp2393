@@ -1,4 +1,5 @@
 # Part1. Remove Sensitive Data from github
+## All done by Keundeok Park(kp2393)
 1. Create test.csv
 ```
   a, b, c
@@ -8,7 +9,7 @@
 ![making_csv](./img/make_csv.png)
 - This is How it looks like.
 ![frame_csv](./img/csv_frame.png)
-- Oh.. I made 1 more csv file named test1.csv because I misunderstood the way to make csv file, just in case.
+- Oh.. I created one more csv file named test2.csv because I misunderstood the way to make csv file, just in case.
 ![commits_csv](./img/commits.png)
 - Type bash command to remove history.
 ```
@@ -17,6 +18,7 @@ $git push origin --force --all
 ```
 - The next figure is result.
 ![result](./img/results.png)
+
 # Part2. Import data from NYC open data
 - example of chart and included in ipython script.
 ![chart](./img/chart.png)
