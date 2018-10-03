@@ -14,7 +14,10 @@
 
 ### 1-3: Lastly, combining 500 samples and plot distribution.
 ![last](./img/all_sample_means.png)
+
 ---
+***
+
 ## assignment 2: Set up the work for data-driven inference based on CitiBike data.
 - Making null and alternative hypothesis with realworld data which is CitiBike.
 - I am looking into CitiBike data to find out that rider who is more than 60 years old tend to be affected by seasonal effect more than under 60 years old.
@@ -28,4 +31,7 @@
 ### 2-3: Checking the data with plot(first: absolute, second: normalized).
 ![last](./img/check.png)
 
-https://en.wikipedia.org/wiki/Central_limit_theorem
+#### Reference about distribution
+https://en.wikipedia.org/wiki/Central_limit_theorem #Central Limit Theorem
+https://en.wikipedia.org/wiki/Law_of_large_numbers #Law of Large Numbers
+https://en.wikipedia.org/wiki/List_of_probability_distributions #probability distribution
