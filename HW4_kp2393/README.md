@@ -7,7 +7,7 @@
 - It must be included normal, poisson, chi-squared and binomial distribution with additional distribution that I choose which is laplace.
 
 ### 1-1: Before I start to generate distribution, I made 100 numbers which would be used for making samples with different sample sizes.
-![step1](./img/setp1.png)
+![step1](./img/step1.png)
 
 ### 1-2: Making samples and plot the samples.
 ![samples_plot](./img/make_plot.png)
