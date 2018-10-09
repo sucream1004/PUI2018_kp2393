@@ -1,7 +1,7 @@
 # HW 5
 
 ## Collaboration:
-For Assignment 2 I worked with Keundeok Park. I found and analyzed the papers for the chi-squared and ANOVA tests. Keundeok found and analyzed the paper for the t-test.
+For Assignment 2 I worked with Adeley Kim. I found and analyzed the papers for t-test. Adeley found and analyzed the paper for the chi-squared and ANOVA tests.
 
 ## Assignment 2
 
