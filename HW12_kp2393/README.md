@@ -1,4 +1,5 @@
 # HW12_kp2393
+* Done by Keundeok Park(kp2393)
 * Get tips from marvin(msm796)
 
 ### Assignment 1
